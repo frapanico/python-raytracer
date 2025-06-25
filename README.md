@@ -10,6 +10,9 @@ A simple ray tracing engine written in Python, based on the concepts and techniq
 ## Requirements
 To run this project, you need the following Python standard libraries (usually pre-installed with Python ≥ 3.8). No external pip packages are required. Tested with Python 3.10+ on Windows and macOS. If you want to convert the output PPM image to PNG on Windows, make sure ImageMagick is installed and added to your system path.
 
+## Additional info
+All files are commented line by line in Italian, as the project was created for academic purposes and intended for a code presentation.
+
 ## Installation
 ```bash
 git clone https://github.com/frapanico/python-raytracer.git
