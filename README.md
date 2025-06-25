@@ -8,7 +8,7 @@ A simple ray tracing engine written in Python, based on the concepts and techniq
 - Lightweight graphical user interface allowing the rendering of up to three spheres, with adjustable materials and RGB color settings
 
 ## Requirements
-To run this project, you need the following Python standard libraries (usually pre-installed with Python ≥3.8). No external pip packages are required. Tested with Python 3.10+ on Windows, macOS. If you want to convert the output PPM image to PNG on Windows, make sure ImageMagick is installed and added to your system path.
+To run this project, you need the following Python standard libraries (usually pre-installed with Python ≥ 3.8). No external pip packages are required. Tested with Python 3.10+ on Windows and macOS. If you want to convert the output PPM image to PNG on Windows, make sure ImageMagick is installed and added to your system path.
 
 ## Installation
 ```bash
